@@ -1,0 +1,67 @@
+span.a {
+    display: block;
+    text-align: right;
+    margin-top: -20px;
+}
+
+.size-960 .line, .size-1140 .line, .size-1280 .line, .size-1520 .line {
+    margin: 0 auto;
+    padding: 0 0.625rem;
+}
+
+.size-1140 .line {
+    max-width: 71rem;
+}
+
+.top-nav li {
+    float: left;
+    list-style: none outside none;
+    cursor: pointer;
+}
+
+.s-12, .xl-12 {
+    /*float: left;*/
+    position: static;
+}
+
+.line {
+    clear: left;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: 'Chewy', cursive;
+}
+
+.mySize {
+    font-size: 12px;
+}
+
+.nrow {
+    margin-right: -15px;
+    margin-left: -15px;
+    min-height: 100%; /*600px;*/
+}
+
+.center {
+    text-align: center;
+}
+
+.meny {
+    display: inline-block;
+    vertical-align: center;
+}
+
+.right {
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.imgStyle {
+    float: left;
+    padding-right: 20px;
+    width: 20%;
+}
+
+.productDetail {
+    min-height: 600px;
+}
